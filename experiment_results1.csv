@@ -1,0 +1,3 @@
+sample_name,number_of_players,number_of_incentives,mean_wealth,median_wealth,std_wealth,skewness,kurtosis,gini_coefficient
+,0.10923603699750961
+PIDCplyr_192_inctvs_500_,192,500,2.2708333333333335,2.0,1.5307893297976118,0.6717146957711624,0.46370732425907724,0.36897935779816504
